@@ -11,7 +11,7 @@ Move Execution:- Once the AI has determined the best move, it places its symbol 
 
 Opponent Response:- If playing against a human or another AI, the opponent makes their move, and the AI repeats the evaluation and decision-making process to determine its next move.
 
-My Contribution is I  created a apython code for this AI project. This project is totally AI based on Gaming Project
+My Contribution is I  created a python code for this AI project. This project is totally AI based on Gaming Project
 Demo Insert gif or link to demo
 
 "C:\Users\HP\.vscode\code\record_tic_tac_toe.mp4"
